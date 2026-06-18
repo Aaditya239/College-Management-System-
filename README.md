@@ -1,3 +1,4 @@
+FOR ASSIGNMENT AND CLASSWORK GITHUB REPO https://github.com/Aaditya239/23BCE9100-Aaditya
 # College Management System
 
 Backend-only College Management System built with Java 17, Spring Boot, Spring Data MongoDB, Swagger/OpenAPI, Lombok, Bean Validation, and Maven.
